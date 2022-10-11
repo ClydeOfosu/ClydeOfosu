@@ -1,5 +1,10 @@
+![logo](https://user-images.githubusercontent.com/69182852/195164829-7eb0e3cc-eca5-4cbb-a4b0-dad861a31bc7.png)
+
+
 <h1 align="center">Hi 👋, I'm Ofosu Clyde Kwabena Budu</h1>
 <h3 align="center">A computer engineering student ready to learn and innovate.</h3>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clydeofosu&label=Profile%20views&color=0e75b6&style=flat" alt="clydeofosu" /> </p>
 
